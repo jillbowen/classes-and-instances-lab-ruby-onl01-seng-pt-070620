@@ -1,8 +1,5 @@
 class Dog 
+  fido.new
+  
 end
-
-fido.new 
-
-snoopy.new
-
-lassie.new 
+ 
